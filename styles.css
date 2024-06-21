@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+/* You can add global styles to this file, and also import other style files */
+body{
+    background-image: url('../../../681DA2E060F4CEE9AA1C606DE6117A9E.webp');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: Arial, sans-serif;
+    height:100vh;
+    margin:0;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
